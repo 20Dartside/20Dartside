@@ -32,13 +32,13 @@ Here are some ideas to get you started:
 ---
 
 ### 🧑‍💻 About Me
-
+<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"> 
 - 💡 Passionate about **DevOps and Cloud Engineering**
 - 🐳 Hands-on experience with **Docker** & containerization
 - ☁️ Exploring **AWS services**, building **CI/CD pipelines** with **Jenkins**
 - 🔄 Scripting with **Python** and automating using **Ansible**
 - 🎯 Preparing for **CKA**, **Terraform Associate**, and cloud-native certifications
-<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"> 
+
 
 ---
 
