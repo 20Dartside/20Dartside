@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 <h3 align="center">🚀 DevOps Enthusiast | Linux Expert | Docker | AWS | Jenkins | Git | Python | Ansible</h3>
 
 ---
-
-### 🧑‍💻 About Me
 <img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"> 
+### 🧑‍💻 About Me
+
 - 💡 Passionate about **DevOps and Cloud Engineering**
 - 🐳 Hands-on experience with **Docker** & containerization
 - ☁️ Exploring **AWS services**, building **CI/CD pipelines** with **Jenkins**
