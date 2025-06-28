@@ -19,7 +19,7 @@
 - 🔧 Building **CI/CD pipelines** using **Jenkins**, automating with **Ansible**, and scripting in **Python**.
 - 📘 Always curious about Infra as Code, monitoring, GitOps & cloud-native tools.
 - 🚀 Aiming for certifications like **CKA**, **Terraform Associate**, etc.
-- 👨‍💻 All of my projects are available at [https://github.com/jayshrilandge30](https://github.com/jayshrilandge30)
+
 
 - 📫 How to reach me **vikaspatel9922@gmail.com**
 
