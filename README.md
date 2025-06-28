@@ -8,7 +8,7 @@
   </span>
 </h1></h1>marquee>
 
-<h3 align="center">🚀 DevOps Enthusiast | Strong in Linux | Docker | AWS | Git | Jenkins | Python | Ansible</h3>
+<h3 align="center">🚀 DevOps Enthusiast | Strong foundation in Linux | Docker | AWS | Git | Jenkins | Python | Ansible</h3>
 
 
 <img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"> 
@@ -35,7 +35,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,aws,git,jenkins,ansible,python,mysql-server,bash,kubernetes,vscode,github,php,js,mysql" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,aws,git,jenkins,ansible,python,bash,kubernetes,vscode,github,php,js,mysql" />
 </p>
 
 <p>
