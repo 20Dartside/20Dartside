@@ -1,6 +1,6 @@
-<p align="center">
+<!--p align="center">
   <img src="https://github.com/20Dartside/20Dartside/assets/your-banner.gif" alt="Welcome " />
-</p>
+</p-->
 
 <marquee><h1 align="center">
   <span style="color:blue; font-family:Segoe UI, Tahoma, Geneva, Verdana, sans-serif;">
