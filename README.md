@@ -2,7 +2,7 @@
   <img src="https://github.com/20Dartside/20Dartside/assets/your-banner.gif" alt="Welcome " />
 </p>
 
-<h1 align="center">Hi there 👋, I'm 20Dartside</h1>
+<h1 align="center">Hi there 👋, I'm vikas patel</h1>
 <h3 align="center">🚀 DevOps Enthusiast | Strong in Linux | Docker | AWS | Git | Jenkins | Python | Ansible</h3>
 
 
@@ -29,25 +29,15 @@
  “Real DevOps don’t restart the server. They find why it’s down in the first place. 😉”
 
 
-
-
-
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,docker,aws,git,jenkins,ansible,python,mysql-server,bash,kubernetes,vscode,github,php,js,mysql" />
 </p>
-
-
-
 
 <p>
   <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=20dartside&show_icons=true&locale=en&layout=compact&theme=dark" alt="jayshrilandge30" />
 </p>
 
-
-
 <img align="center"  src="https://github-readme-stats.vercel.app/api?username=20Dartside&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github"/>
-
 
 <p><img align="center" " src="https://github-readme-streak-stats.herokuapp.com/?user=20Dartside&theme=transparent" alt="20Dartside" /></p>
 
