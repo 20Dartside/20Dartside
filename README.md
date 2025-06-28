@@ -2,11 +2,11 @@
   <img src="https://github.com/20Dartside/20Dartside/assets/your-banner.gif" alt="Welcome " />
 </p>
 
-<h1 align="center">
+<marquee><h1 align="center">
   <span style="color:blue; font-family:Segoe UI, Tahoma, Geneva, Verdana, sans-serif;">
     Hi 👋, I'm <span style="color:blue;">Vikas Patel</span>
   </span>
-</h1>
+</h1></h1>marquee>
 
 <h3 align="center">🚀 DevOps Enthusiast | Strong in Linux | Docker | AWS | Git | Jenkins | Python | Ansible</h3>
 
